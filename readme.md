@@ -1,2 +1,2 @@
 #start Git
-#clone remote RobotMotorsControl
+#xremote RobotMotorsControl
